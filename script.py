@@ -3,7 +3,7 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-I am  a bot created for @goku_kun and @nk_guy.
+I am  a bot created for @goku_kun and @nk_guy. Plzzzzzzzzz Join @Anime_Kraze to watch ANIME!
 Sorry, but I won't work for you!
 Bot gives button link to files in connected channels on query !
 No need to add filters for your files or movies from now on!
